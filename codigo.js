@@ -16,6 +16,8 @@ const multiplicar = (num1,num2)=>{
 alert("Hola, esta es una calculadora que habla. pulsa aceptar para continuar");
 operacion = prompt("1: suma, 2: resta, 3: division, 4: multiplicacion");
 
+###esto es una calculadora 
+
 
 if (operacion == 1) {
     let numero1 = prompt("primer numero para sumar");
